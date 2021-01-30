@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>{% block title %}Game Of Thrones{% endblock %}</title>
+    {% block stylesheets %}
+    <link href="styles.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+{% endblock %} {% block javascripts %}{% endblock %}
+  </head>
+  <body>
+    {% block header %}
+    <header>
+      <nav class="navBar" >
+        <a href="/" style="text-decoration: none;"><li>Home</li></a>
+         <a href="/characters" style="text-decoration: none;"> <li>Characters</li></a>
+          <a href="/houses" style="text-decoration: none;"><li>Houses</li></a>
+          
+    </nav>
+    </header>
+    {% endblock %}
+     {% block body %}
+     <div style="width: 100%; display: flex; justify-content:center">
+     <img src= "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/9989e4b3-5e20-4d49-8c7a-0a6834aa0f42/d7wlw11-cc00af93-4ca2-40da-82ee-700fbe1feccf.png" style="width: 50%; text-align:center; position:relative">
+     <img src= 'https://upload.wikimedia.org/wikipedia/commons/b/b5/Logo_Game_of_Thrones.png' style="width: 50%; position:absolute; top: 65vh;">
+    </div>
+     {% endblock %}
+  </body>
+</html>

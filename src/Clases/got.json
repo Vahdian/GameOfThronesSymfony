@@ -1,0 +1,235 @@
+{
+  "characters": [
+    {
+      "_id": "5cc0757c04e71a0010b86ac3",
+      "name": "Eddard Star",
+      "slug": "Eddard_Stark",
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/3/37/Eddard_Stark_infobox_new.jpg/revision/latest/scale-to-width-down/323?cb=20160730050722",
+      "gender": "male",
+      "alive": false,
+      "death": 298,
+      "father": "Rickard Stark",
+      "house": "House Stark",
+      "first_seen": "Winter Is Coming\"",
+      "actor": "Sean Bean"
+    },
+    {
+      "_id": "5cc0757c04e71a0010b86af3",
+      "name": "Catelyn Stark",
+      "slug": "Catelyn_Stark",
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/d/d8/CatelynS3Promo.jpg/revision/latest/scale-to-width-down/333?cb=20131004004734",
+      "gender": "female",
+      "alive": false,
+      "death": 300,
+      "mother": "Minisa Tully",
+      "father": "Hoster Tully",
+      "house": "House Stark",
+      "first_seen": "Winter Is Coming\"",
+      "actor": "Michelle Fairley"
+    },
+    {
+      "_id": "5cc0757c04e71a0010b86b16",
+      "name": "Robb Stark",
+      "slug": "Robb_Stark",
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/5/50/S3E9_Robb_Stark_main.jpg/revision/latest/scale-to-width-down/327?cb=20160718071203",
+      "gender": "male",
+      "alive": false,
+      "birth": 281,
+      "death": 300,
+      "mother": "Catelyn Stark",
+      "father": "Eddard Stark",
+      "house": "House Stark",
+      "first_seen": "Winter Is Coming\"",
+      "actor": "Richard Madden"
+    },
+    {
+      "_id": "5cc0757c04e71a0010b86b44",
+      "name": "Sansa Stark",
+      "slug": "Sansa_Stark",
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/f/f3/Sansa_S8.jpg/revision/latest/scale-to-width-down/350?cb=20190206213553",
+      "gender": "female",
+      "alive": true,
+      "birth": 285,
+      "mother": "Catelyn Stark",
+      "father": "Eddard Stark",
+      "house": "House Stark",
+      "first_seen": "Winter Is Coming\"",
+      "actor": "Sophie Turner"
+    },
+    {
+      "_id": "5cc0757c04e71a0010b86b76",
+      "name": "Arya Stark",
+      "slug": "Arya_Stark",
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/b/b1/Arya_Season_8.jpg/revision/latest/scale-to-width-down/350?cb=20190206213617",
+      "gender": "female",
+      "alive": true,
+      "birth": 287,
+      "mother": "Catelyn Stark",
+      "father": "Eddard Stark",
+      "house": "House Stark",
+      "first_seen": "Winter Is Coming\"",
+      "actor": "Maisie Williams"
+    },
+    {
+      "_id": "5cc0757c04e71a0010b86bb0",
+      "name": "Bran Stark",
+      "slug": "Bran_Stark",
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/1/1c/Bran_S8_EP2infobox.jpg/revision/latest/scale-to-width-down/304?cb=20190418012948",
+      "gender": "male",
+      "alive": true,
+      "birth": 288,
+      "mother": "Catelyn Stark",
+      "father": "Eddard Stark",
+      "house": "House Stark",
+      "first_seen": "Winter Is Coming\"",
+      "actor": "Isaac Hempstead-Wright"
+    },
+    {
+      "_id": "5cc0757c04e71a0010b86bdc",
+      "name": "Rickon Stark",
+      "slug": "Rickon_Stark",
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/d/d9/Battle_of_the_Bastards_42.jpg/revision/latest/scale-to-width-down/350?cb=20160621185459",
+      "gender": "male",
+      "alive": false,
+      "birth": 292,
+      "death": 303,
+      "mother": "Catelyn Stark",
+      "father": "Eddard Stark",
+      "house": "House Stark",
+      "first_seen": "Winter Is Coming\"",
+      "actor": "Art Parkinson"
+    },
+    {
+      "_id": "5cc0757c04e71a0010b86bfb",
+      "name": "Jon Snow",
+      "slug": "Jon_Snow",
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/d/d3/JonSnowSeason8HB.jpg/revision/latest/scale-to-width-down/333?cb=20190401173347",
+      "gender": "male",
+      "alive": true,
+      "birth": 281,
+      "mother": "Lyanna Stark",
+      "father": "Rhaegar Targaryen",
+      "house": "House Stark",
+      "first_seen": "Winter is Coming\"",
+      "actor": "Kit Harington"
+    },
+    {
+      "_id": "5cc0757c04e71a0010b86c3b",
+      "name": "Benjen Stark",
+      "slug": "Benjen_Stark",
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/0/0f/610_Benjen_Promo_Crop.png/revision/latest/scale-to-width-down/350?cb=20160629183134",
+      "gender": "male",
+      "alive": false,
+      "death": 304,
+      "father": "Rickard Stark",
+      "house": "House Stark",
+      "first_seen": "Winter Is Coming\"",
+      "actor": "Joseph Mawle"
+    },
+    {
+      "_id": "5cc0757c04e71a0010b86c54",
+      "name": "Theon Greyjoy",
+      "slug": "Theon_Greyjoy",
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/7/78/TheonS8E1.PNG/revision/latest/scale-to-width-down/314?cb=20190415192721",
+      "gender": "male",
+      "alive": true,
+      "birth": 281,
+      "mother": "Alannys Greyjoy",
+      "father": "Balon Greyjoy",
+      "house": "House Greyjoy",
+      "first_seen": "Winter Is Coming\"",
+      "actor": "Alfie Allen"
+    },
+    {
+      "_id": "5cc0757c04e71a0010b86c72",
+      "name": "Rodrik Cassel",
+      "slug": "Rodrik_Cassel",
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/6/6b/Rodrik_profile.jpg/revision/latest?cb=20130122155003",
+      "gender": "male",
+      "alive": false,
+      "death": 299,
+      "house": "House Cassel",
+      "first_seen": "Winter Is Coming\"",
+      "actor": "Ron Donachie"
+    },
+    {
+      "_id": "5cc0757c04e71a0010b86c8c",
+      "name": "Luwin",
+      "slug": "Luwin",
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/5/53/Luwin.jpg/revision/latest?cb=20180702203634",
+      "gender": "male",
+      "alive": false,
+      "death": 299,
+      "house": "Maesters",
+      "first_seen": "Winter Is Coming\"",
+      "actor": "Donald Sumpter"
+    },
+    {
+      "_id": "5cc0757c04e71a0010b86c9b",
+      "name": "Hodor",
+      "slug": "Hodor",
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/1/18/Season_6_hodor_main.jpg/revision/latest/scale-to-width-down/350?cb=20160617020835",
+      "gender": "male",
+      "alive": false,
+      "death": 303,
+      "house": "House Stark",
+      "first_seen": "Winter Is Coming\"",
+      "actor": "Kristian Nairn"
+    },
+    {
+      "_id": "5cc0757c04e71a0010b86cae",
+      "name": "Old Nan",
+      "slug": "Old_Nan",
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/1/12/Vieille_Nan.jpg/revision/latest?cb=20180702205437",
+      "gender": "female",
+      "alive": true,
+      "house": "House Stark",
+      "first_seen": "Lord Snow\"",
+      "actor": "Margaret John"
+    }
+  ],
+  "houses": [
+    {
+      "_id": "5cc0751804e71a0010b85cd7",
+      "name": "House Baratheon of Dragonstone",
+      "sigil": "The crowned black stag of Baratheon enclosed within the fiery red heart of the Lord of Light",
+      "words": "\"Ours Is the Fury\" (official)\"The Night Is Dark and Full of Terrors\" (religious)"
+    },
+    {
+      "_id": "5cc0751804e71a0010b85cd9",
+      "name": "House Beesbury",
+      "sigil": "",
+      "words": "\"Beware Our Sting\"[citation needed]"
+    },
+    {
+      "_id": "5cc0751804e71a0010b85cdb",
+      "name": "House Blackfyre",
+      "sigil": "A black three-headed dragon, on a red field.",
+      "words": ""
+    },
+    {
+      "_id": "5cc0751804e71a0010b85cdc",
+      "name": "House Blackmont",
+      "sigil": "A flying grey and white vulture, grasping a baby in its talons, on a black field.",
+      "words": ""
+    },
+    {
+      "_id": "5cc0751804e71a0010b85cdd",
+      "name": "House Blacktyde",
+      "sigil": "Vairy green and black",
+      "words": ""
+    },
+    {
+      "_id": "5cc0751804e71a0010b85d28",
+      "name": "House Lannister",
+      "sigil": "A golden lion rampant on a crimson field",
+      "words": "\"Hear Me Roar!\" (official)\"A Lannister Always Pays His Debts\" (common saying)"
+    },
+    {
+      "_id": "5cc0751804e71a0010b85d5d",
+      "name": "House Stark",
+      "sigil": "A grey direwolf on a white field",
+      "words": "\"Winter Is Coming\""
+    }
+  ]
+}

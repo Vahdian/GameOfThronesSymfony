@@ -1,0 +1,27 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}<h1 style="text-align: center; margin:0; padding: 5rem;">HOUSES</h1>
+
+<table class="table table-dark table-striped" style="margin-bottom: 0;">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Name</th>
+        <th scope="col">Moto</th>
+        <th scope="col">Phrase</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for key, house in houses %}
+      <tr>
+        <th scope="col">{{ key + 1 }}</th>
+        <td>{{ house.name }}</td>
+        <td>{{ house.sigil }}</td>
+        <td>{{ house.words }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  
+  {% endblock %}
+  

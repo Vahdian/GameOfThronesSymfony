@@ -1,0 +1,46 @@
+@import url(//db.onlinewebfonts.com/c/97c4b25dc74e0ab045154e75a8fdd69d?family=Game+of+Thrones);
+
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: 'Game of Thrones';
+}
+body{
+    background-image: url('https://i.pinimg.com/originals/57/f5/fa/57f5fa649b7683b5ee4999242e873e63.jpg');
+}
+
+
+.navBar{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-evenly;
+    border-bottom: 1px solid white;
+}
+
+.navBar a li{
+    list-style: none;
+    font-size: 3rem;
+    padding: 3rem;
+    text-transform: uppercase;
+    cursor: pointer;
+
+}
+
+.navBar li:hover{
+        color: rgb(184, 34, 28);
+        font-weight: 700;
+}
+
+a{
+    text-decoration: none;
+}
+
+.mainTotle{
+    text-align: center;
+    padding: 5rem;
+}
+
+
+
